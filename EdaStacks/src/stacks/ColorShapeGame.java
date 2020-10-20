@@ -21,7 +21,7 @@ public class ColorShapeGame {
 				}else {
 					Star star = new Star ("star");
 				}
-				
+				//comentario inutil
 			}
 		}
 		
